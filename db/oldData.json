@@ -1,0 +1,5 @@
+{
+  "item1": { "name": "Ürün A", "category": "Kategori 1", "price": 100, "stock": 50, "sales": 30, "users": { "user1": { "username": "Ahmet", "reviews": [ "Harika bir ürün!", "Beklentilerimi karşıladı." ] }, "user2": { "username": "Ayşe", "reviews": [ "Fiyatına göre oldukça iyi.", "Tekrar almayı düşünüyorum." ] } } },
+  "item2": { "name": "Ürün B", "category": "Kategori 2", "price": 200, "stock": 30, "sales": 15, "users": { "user3": { "username": "Mehmet", "reviews": [ "Güzel tasarım ama biraz pahalı.", "Yine de memnun kaldım." ] }, "user4": { "username": "Fatma", "reviews": [ "Kaliteli malzeme.", "Daha fazla renk seçeneği olmalı." ] } } },
+  "item3": { "name": "Ürün C", "category": "Kategori 1", "price": 150, "stock": 20, "sales": 10, "users": { "user5": { "username": "Ali", "reviews": [ "Çok kullanışlı!", "Kesinlikle tavsiye ederim." ] }, "user6": { "username": "Zeynep", "reviews": [ "Fiyat/performans oranı harika.", "Alışveriş deneyimim güzeldi." ] } } }
+}
