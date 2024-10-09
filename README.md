@@ -16,7 +16,7 @@ npm install MuhammedAkay/SryaBot.db
 package.json dosyasıyla ekleme:
 ```json
 "dependencies": {
-  "sryabot.db": "MuhammedAkay/SryaBot.db"
+  "sryabot.db": "github:MuhammedAkay/SryaBot.db"
 }
 ```
 ## Kullanım
