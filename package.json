@@ -1,0 +1,31 @@
+{
+    "name": "sryabot.db",
+    "version": "0.0.1",
+    "description": "SryaBot'ta kullanılan esnek ve güçlü veritabanı yönetim sistemi",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc --project tsconfig.json",
+        "start": "node dist/test.js",
+        "test": "node dist/test.js"
+    },
+    "keywords": [
+        "database",
+        "sryabot"
+    ],
+    "author": "muhammedakay_47",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MuhammedAkay/SryaBot.db.git"
+    },
+    "devDependencies": {
+        "@types/node": "^18.19.50",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.6.2"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7"
+    }
+}
